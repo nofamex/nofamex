@@ -18,6 +18,7 @@
    <a href="https://twitter.com/nofelldown"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/nofamex?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@nofelldown"></a>
  </p>
  
+ Hi, I'm [Nofaldi Atmam](https://nopal.codes), a Full Stack Developer 🚀 from Indonesia, currently, I'm a student at the [University of Indonesia](https://www.ui.ac.id/). Beside's programming, I enjoy eating food and traveling.
  
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
