@@ -15,7 +15,7 @@
 
 <br>
 
- Hi, I'm [Nofaldi Atmam](https://nopal.codes), a Full Stack Developer 🚀 from Indonesia, currently, I'm a student at the [University of Indonesia](https://www.ui.ac.id/). Beside's programming, I enjoy eating food, travelling and watch anime 👌.
+ Hi, I'm [Nofaldi Atmam](https://nopal.codes), a Developer 🚀 from Indonesia, currently, I'm a student at the [University of Indonesia](https://www.ui.ac.id/). Beside's programming, I enjoy eating food, travelling and watch anime 👌.
  
 <br />
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
