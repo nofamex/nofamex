@@ -2,13 +2,6 @@
    <h1>Hi there, I'm <a href="https://nopal.codes">Nopal</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
-<p align='center'>
-   <a href="https://twitter.com/nofelldown"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>&nbsp;&nbsp;
-   <a href=https://www.linkedin.com/in/nofaldi-atmam-b34851196/><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>&nbsp;&nbsp;
-   <a href="https://t.me/Nofamex"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"></a>&nbsp;&nbsp;
-   <a href="https://www.instagram.com/faldimam/?hl=en"><img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>&nbsp;&nbsp;
-</p>
-
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 💻 Developer | 👾 Indonesia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
@@ -56,11 +49,3 @@
  <p align="center">
   <h4> System Design | Web Development | Micro Services | Mobile Development | Machine Learning | DevOps </h4>
  </p>
-
-<p align="center" >
-   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=nofamex&&show_icons=true&theme=radical"/>
-  </a>
-</p>
-
-<br />
