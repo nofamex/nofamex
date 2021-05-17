@@ -39,5 +39,3 @@
  <p align="center">
   <h4> System Design | Web Development | Micro Services | Mobile Development | Cloud Engineering | DevOps | Software Engineering</h4>
  </p>
- 
- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nofamex&show_icons=true&locale=en&layout=compact" alt="syakhisk" /></p>
