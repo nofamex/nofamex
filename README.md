@@ -6,8 +6,6 @@
 
  Hi, I'm [Nofaldi Atmam](https://nopal.codes), a Developer 🚀 from Indonesia, currently, I'm a student at the [University of Indonesia](https://www.ui.ac.id/). Beside's programming, I enjoy eating food, travelling and watch anime 👌.
  
-<br />
- 
 ## Languages and Tools
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=plastic&logo=react&logoColor=white" />
