@@ -7,15 +7,6 @@
  Hi, I'm [Nofaldi Atmam](https://nopal.codes), a Developer 🚀 from Indonesia, currently, I'm a student at the [University of Indonesia](https://www.ui.ac.id/). Beside's programming, I enjoy eating food, travelling and watch anime 👌.
  
 <br />
-<p align="center">
-  <h3> I'm 19 years old developer from Indonesia.</h3>
-</p>
-
- - 🧛‍♀️, i love to read manga and watch anime.
- 
- - I like to explore a lot of tech related stuff, google fanboy 🔥🔥
- 
- <br>
  
 ## Languages and Tools
 <p>
