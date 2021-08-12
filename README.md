@@ -9,7 +9,7 @@
 ## Favorite Languanges
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Node-43853d?style=plastic&logo=nodedotjs&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-fc8626?style=plastic&logo=Java&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776ab?style=plastic&logo=Python&logoColor=white" />
   <img alt="Go" src="https://img.shields.io/badge/-Go-00add8?style=plastic&logo=Go&logoColor=white" />
