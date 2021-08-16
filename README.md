@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi there, I'm <a href="https://nopal.codes">Nopal</a> </h1>;
+   <h1>Hi there, I'm <a href="https://nopal.codes">Nopal</a> </h1>
 </div>
 
 <br>
