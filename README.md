@@ -16,7 +16,6 @@ Currently learning <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0
   <img alt="Java" src="https://img.shields.io/badge/-Java-fc8626?style=plastic&logo=Java&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776ab?style=plastic&logo=Python&logoColor=white" />
   <img alt="Go" src="https://img.shields.io/badge/-Go-00add8?style=plastic&logo=Go&logoColor=white" />
-  <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175c2?style=plastic&logo=dart&logoColor=white" />
 </p>
 
 ## Favorite Development Tools and Frameworks
@@ -25,7 +24,6 @@ Currently learning <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0
   <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=plastic&logo=express&logoColor=white" />
   <img alt="Fastify" src="https://img.shields.io/badge/-Fastify-000000?style=plastic&logo=fastify&logoColor=white" />
   <img alt="Nextjs" src="https://img.shields.io/badge/-Next-000000?style=plastic&logo=nextdotjs&logoColor=white" />
-  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569b?style=plastic&logo=flutter&logoColor=white" />
   <img alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-663399?style=plastic&logo=Gatsby&logoColor=white" />
   <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-38b2ac?style=plastic&logo=Tailwind-css&logoColor=white" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=plastic&logo=springboot&logoColor=white" />
