@@ -7,7 +7,7 @@
  Hi, I'm [Nofaldi Atmam](https://nopal.codes), a Developer 🚀 from Indonesia, currently, I'm a student at the [University of Indonesia](https://www.ui.ac.id/). Beside's programming, I enjoy eating food, travelling and watch anime 👌.
  
 ## My Progress
-Currently learning Kotlin out of curiosity in native development, also expanding my knowledge, since i already know java, kotlin has been a great learning experience, i will continue to grow better on this, wml :)
+Currently learning <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=plastic&logo=kotlin&logoColor=white" /> out of curiosity in native development, also expanding my knowledge, since i already know java, kotlin has been a great learning experience, i will continue to grow better on this, wml :)
  
 ## Favorite Languanges
 <p>
@@ -28,8 +28,10 @@ Currently learning Kotlin out of curiosity in native development, also expanding
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569b?style=plastic&logo=flutter&logoColor=white" />
   <img alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-663399?style=plastic&logo=Gatsby&logoColor=white" />
   <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-38b2ac?style=plastic&logo=Tailwind-css&logoColor=white" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=plastic&logo=springboot&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=plastic&logo=docker&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white" />
+  <img alt="Hasura" src="https://img.shields.io/badge/-Hasura-1EB4D4?style=plastic&logo=hasura&logoColor=white" />
+  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo-311C87?style=plastic&logo=apollographql&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffca28?style=plastic&logo=firebase&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-232f3e?style=plastic&logo=amazon-aws&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326ce5?style=plastic&logo=kubernetes&logoColor=white" />
