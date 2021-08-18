@@ -6,6 +6,9 @@
 
  Hi, I'm [Nofaldi Atmam](https://nopal.codes), a Developer 🚀 from Indonesia, currently, I'm a student at the [University of Indonesia](https://www.ui.ac.id/). Beside's programming, I enjoy eating food, travelling and watch anime 👌.
  
+## My Progress
+Currently learning Kotlin out of curiosity in native development, also expanding my knowledge, since i already know java, kotlin has been a great learning experience, i will continue to grow better on this, wml :)
+ 
 ## Favorite Languanges
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white" />
@@ -16,7 +19,7 @@
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175c2?style=plastic&logo=dart&logoColor=white" />
 </p>
 
-## Favorite Development Tools and Framework
+## Favorite Development Tools and Frameworks
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=plastic&logo=react&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=plastic&logo=express&logoColor=white" />
