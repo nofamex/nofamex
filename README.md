@@ -4,7 +4,7 @@
 
 <br>
 
- Hi, I'm [Nofaldi Atmam](https://nopal.codes), a Developer 🚀 from Indonesia, currently, I'm a student at the [University of Indonesia](https://www.ui.ac.id/). Beside's programming, I enjoy eating food, travelling and watch anime 👌
+ Hi, I'm [Nofaldi Atmam](https://nopal.codes), a Developer 🚀 from Indonesia, currently, I'm a student at the [University of Indonesia](https://www.ui.ac.id/). Beside's programming, I enjoy eating food, travelling and watch anime 👌.
  
 ## My Progress
 Currently learning <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=plastic&logo=kotlin&logoColor=white" /> out of curiosity in native development, also expanding my knowledge, since i already know java, kotlin has been a great learning experience, i will continue to grow better on this, wml :)
