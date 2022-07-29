@@ -9,7 +9,7 @@
 ## My Progress
 Currently learning <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=plastic&logo=kotlin&logoColor=white" /> out of curiosity in native development, also expanding my knowledge, since i already know java, kotlin has been a great learning experience, i will continue to grow better on this, wml :)
  
-## Favorite Languanges
+## Favorite Programming Languanges
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-fc8626?style=plastic&logo=Java&logoColor=white" />
